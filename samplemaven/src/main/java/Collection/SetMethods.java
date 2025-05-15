@@ -25,7 +25,7 @@ public class SetMethods {
         System.out.println(s.size());
         s1.clear();
         System.out.println(s1);
-        
+       
 	}
 
 }

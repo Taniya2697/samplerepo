@@ -4,7 +4,7 @@ public class Interface2 implements Interface1{
 
 	public static void main(String[] args) {
 		Interface2 obj=new Interface2();
-		Interface1 obj1=new Interface2();//referance creation
+		Interface1 obj1=new Interface2();//reference creation
 		obj.display();
 		obj.show();
 		

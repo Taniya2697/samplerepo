@@ -22,6 +22,7 @@ public class GenericList {
 		System.out.println(s);
 		System.out.println(s.isEmpty());
 		System.out.println(s.contains("orange"));
+		System.out.println(s.remove("banana"));
 		System.out.println(s.size());
 
 	}
